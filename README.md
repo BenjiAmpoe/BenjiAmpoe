@@ -1,21 +1,39 @@
- <!-- Profile Header -->
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://via.placeholder.com/1000x300.png?text=Ernest+Benjamin+Ampoe+-+Frontend+Engineer" alt="Ernest Benjamin Nhyiraba Kofi Ampoe | Frontend Engineer Banner" />
+</p>
+
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ernest Benjamin Nhyiraba Kofi Ampoe</h1>
-<h3 align="center">🚀 Aspiring Frontend Engineer | ALX Learner | Passionate about turning ideas into beautiful web experiences</h3>
+<h3 align="center">🚀 Aspiring Frontend Engineer | ALX Learner | Librarian | Entrepreneur</h3>
 
 ---
 
-<!-- About Me -->
 ## 👨‍💻 About Me  
 
 ✨ I started my journey in **software engineering** because I believe in bringing life into code—transforming ideas into beautiful, functional websites.  
 💡 I’m passionate about creating **unique and user-focused frontend experiences**.  
 🎯 My ultimate goal is to become a **world-class Frontend Engineer** who builds scalable and creative web applications.  
 🌱 Currently learning **Frontend Development** at [ALX](https://www.alxafrica.com/).  
-⚡ Fun fact: *I see code as art that lives on the web.*
+⚡ Fun fact: *I see code as art that lives on the web.*  
 
 ---
 
-<!-- Skills Section -->
+## 🏆 Achievements & Experience  
+
+📚 **Librarianship**  
+- Diploma in Librarianship from the **University of Ghana**.  
+- Former **Head Librarian** at Pharmatrust Professional College.  
+- Completed **National Service** at the Ghana Library Authority.  
+- Hands-on experience in **reference services, cataloguing, classification, and digital library systems**.  
+
+🍯 **Entrepreneurship**  
+- Founder of **Nann Honey**, a growing brand that sources and packages natural honey.  
+- Skilled in **business branding, marketing, and customer relations**.  
+- Balancing entrepreneurship with a passion for **technology and innovation**.  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### 🔹 Languages & Markup  
@@ -40,41 +58,32 @@
 
 ---
 
-<!-- Projects Section -->
-## 📂 Featured Projects  
+## 📂 Projects  
 
-### 🌟 [Project Name](#)  
-💻 *Short description of what the project does and the skills you applied.*  
-🔗 [View Project](#) | 📄 [Source Code](#)  
-
-### 🌟 [Project Name](#)  
-💻 *Short description of what the project does and the skills you applied.*  
-🔗 [View Project](#) | 📄 [Source Code](#)  
-
-> 📝 *Tip: Add screenshots or GIF demos of your best projects to make them visually appealing!*
+🚧 *Currently building projects as part of my ALX Frontend Development journey.*  
+Stay tuned for **exciting repositories showcasing my growth and skills**!  
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Benjiampoe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benjiampoe&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-<!-- Contact Section -->
 ## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:your-ernestbenjaminampoe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/ernest-benjamin-ampoe-01909a325"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:ernestbenjainampoe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ernest-benjamin-ampoe-01909a325/"><img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ernest-benjamin-ampoe-01909a325/overlay/background-image/"><img src="https://img.shields.io/badge/LinkedIn_Banner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/ernest_ampoe?t=lex4M3cPx3_1Ym4mCIDi2Q&s=09"><img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
